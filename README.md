@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @lxrdwander! 
-- 👀 I’m interested in writing & research.
+- 👋 Hi, I’m Zoopy.
+- 👀 I’m interested in VR design and development. (also computer science).
 - 🌱 I’m currently learning all sorts of things. :) 
-- 📫 How to reach me : Fiverr : https://www.fiverr.com/lxrdwander
+
 
 <!---
 lxrdwander/lxrdwander is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
